@@ -1,0 +1,8 @@
+{
+    "id": "bb879817-faac-429d-aa91-9f3be460dd05",
+    "idType": "tenant",
+    "apiHosts": {
+        "global": "https://api.central.sophos.com",
+        "dataRegion": "https://api-in01.central.sophos.com"
+    }
+}
